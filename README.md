@@ -11,4 +11,4 @@ I see absolutely no reason why we can’t have a massively popular technology wh
 
 The Mandala OS is the ideal breeding ground for the post-computer post-scarcity shaman, the roving troubadour, the bard, the actor, the comedian, the tragedian. It should reward you for goofing off, and encourage exactly the types of behaviors we need so badly to see to instantiate a Global Renaissance!"
 
-- Time Botcher
+--Time Botcher
